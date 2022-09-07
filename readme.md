@@ -13,7 +13,7 @@ Repositório de Códigos do bootcamp de Engenharia de Dados 2022
 
 Curso Completo de Engenharia de dados pela HOW Bootcamps
 
-Pode ser acessado em: (https://howedu.com.br/cohort/engenharia-de-dados/)
+O curso pode ser acessado em: [Site](https://howedu.com.br/cohort/engenharia-de-dados/)
 
 
 ## Calendário:
